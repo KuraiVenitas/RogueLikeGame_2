@@ -1,0 +1,174 @@
+{
+    "name": "MainControls",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "b4a82759-6713-416a-bc8d-38699cd66b1a",
+            "actions": [
+                {
+                    "name": "Move Up",
+                    "type": "Button",
+                    "id": "858f7b1d-8ef2-4985-9fca-68f663335c15",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move Down",
+                    "type": "Button",
+                    "id": "b67adce5-2934-451f-88b5-6c2c6b4f1df6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move Left",
+                    "type": "Button",
+                    "id": "73ff2c20-c35d-41e6-8e4d-6b7f548040a4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move Right",
+                    "type": "Button",
+                    "id": "2c2adae1-f61c-4e03-9cb8-7dfabe7b2ace",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Attack Up",
+                    "type": "Button",
+                    "id": "fad1ccfc-6d7e-4b29-ae63-c47b0f16668d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Attack Down",
+                    "type": "Button",
+                    "id": "18957d44-2b11-4973-a07d-bcb6c557fbd6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Attack Left",
+                    "type": "Button",
+                    "id": "3b0e75d8-5578-4cb2-b5e0-dcff7a0afcc3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Attack Right",
+                    "type": "Button",
+                    "id": "9cf88e06-667f-448f-acaa-94d78e6ca07c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7aeb2ef0-b6de-43a9-951f-a26250b96ad8",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ffa523cd-72a6-4c46-9045-4688918ea176",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "48231585-5055-413e-a72f-dcb7bcff7e5a",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "76cc11e5-b403-457d-be98-a48c79646dbf",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "30e28f5e-4c0c-48de-a8b9-6aad887fdc8d",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "35900001-78f3-4aee-9e53-9a620cdf48fe",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "02d6a107-f720-4a2e-a54e-62420eb18631",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ee8833f9-8ba8-4744-8c3b-97b6ae954667",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
