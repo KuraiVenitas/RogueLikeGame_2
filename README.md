@@ -1,2 +1,2 @@
 # RogueLikeGame_2
- An experiment with rnadom tileset generation
+ An experiment with random tileset generation
